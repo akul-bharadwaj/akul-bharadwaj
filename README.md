@@ -5,6 +5,8 @@ I am a skilled technology enthusiast with a year of experience in analysing data
 
 *   🌍  Currently based in my hometown Bengaluru, India
 *   ✉️  You can contact me at [akulb2h@gmail.com](mailto:akulb2h@gmail.com)
+*   ⭐  My interests are in data analysis, machine learning, deep learning and computer vision.
+  
   ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
