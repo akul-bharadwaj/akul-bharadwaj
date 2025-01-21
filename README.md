@@ -30,7 +30,7 @@ I am a skilled technology enthusiast with a year of experience in analysing data
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="36" height="36" alt="Streamlit" /></a>
 <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/gradio-icon.svg" width="36" height="36" alt="Gradio" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>  
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/datasets/huggingface/brand-assets/raw/main/hf-logo.svg" width="36" height="36" alt="Hugging Face" /></a>  
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="36" height="36" alt="Hugging Face" /></a>  
 </p>
 
 ### My GitHub Stats
