@@ -31,9 +31,4 @@ I am a skilled technology enthusiast with a year of experience in analysing data
 <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/gradio-icon.svg" width="36" height="36" alt="Gradio" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>  
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="36" height="36" alt="Hugging Face" /></a>  
-</p>
-
-### My GitHub Stats
-
-<a href="https://github.com/akul-bharadwaj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akul-bharadwaj&layout=compact&theme=dark" alt="Top Languages" /></a>
-                    
+</p>                
