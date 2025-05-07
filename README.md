@@ -1,9 +1,10 @@
 Hi 👋 I'm Akul. Welcome to my GitHub profile!
 =============================================
 
-I am a skilled technology enthusiast with a year of experience in analysing data, building machine learning/deep learning models and coming up with innovative solutions. I hold a master’s degree in Data Science and Artificial Intelligence with a Year in Industry from the University of Liverpool and a bachelor's degree in Electronics and Communication Engineering, which provided me with a strong foundation in analytical thinking. Constantly learning and exploring new technologies, I aim to contribute to cutting-edge projects that drive transformative change and further leverage data to solve real-world problems.
+I am a data scientist and skilled technology enthusiast with a year of experience in analysing data, building machine learning/deep learning models and coming up with innovative solutions. I hold a master’s degree in Data Science and Artificial Intelligence with a Year in Industry from the University of Liverpool and a bachelor's degree in Electronics and Communication Engineering, which provided me with a strong foundation in analytical thinking. Constantly learning and exploring new technologies, I aim to contribute to cutting-edge projects that drive transformative change and further leverage data to solve real-world problems.
 
-*   🌍  Currently based in my hometown Bengaluru, India.
+*   💼  Currently working as Jr. Data Scientist at [Datadivr](https://www.datadivr.com/) based in Chennai, India.
+*   🌍  My hometown is Bengaluru, India.
 *   🖥️  See my portfolio at [Portfolio-Akul Bharadwaj](https://www.datascienceportfol.io/akulb2h).
 *   ✉️  You can contact me at [akulb2h@gmail.com](mailto:akulb2h@gmail.com).
 *   ⭐  My interests include data analysis, machine learning, deep learning and computer vision.
