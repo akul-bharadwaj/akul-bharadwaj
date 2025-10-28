@@ -1,9 +1,15 @@
 Hi 👋 I'm Akul. Welcome to my GitHub profile!
 =============================================
 
-I am a data scientist and skilled technology enthusiast with a year of experience in analysing data, building machine learning/deep learning models and coming up with innovative solutions. I hold a master’s degree in Data Science and Artificial Intelligence with a Year in Industry from the University of Liverpool and a bachelor's degree in Electronics and Communication Engineering, which provided me with a strong foundation in analytical thinking. Constantly learning and exploring new technologies, I aim to contribute to cutting-edge projects that drive transformative change and further leverage data to solve real-world problems.
+I am an AI Solutions Engineer with hands-on experience in building and deploying end-to-end AI pipelines that deliver measurable business impact. At Datadivr, I drive the development of ShelfSmart, a vision–based solution that enables Food & Beverage companies to improve retail shelf analytics and planogram compliance.
 
-*   💼  Currently working as Jr. Data Scientist at [Datadivr](https://www.datadivr.com/) based in Chennai, India.
+I have been part of this journey from its early design as a Jr. Data Scientist to now leading its development as an AI Solutions Engineer, bridging technical innovation with real customer needs and ROI goals.
+
+I hold a Master's in Data Science and Artificial Intelligence with a Year in Industry from the University of Liverpool, and a Bachelor's in Electronics and Communication Engineering, giving me a strong foundation in analytical problem-solving and applied AI.
+
+Passionate about continuous learning and innovation, I aim to shape AI solutions that transform industries by combining technical depth, product thinking, and business impact.
+
+*   💼  Currently working as AI Solutions Engineer at [Datadivr](https://www.datadivr.com/) based in Pune, India.
 *   🌍  My hometown is Bengaluru, India.
 *   🖥️  See my portfolio at [Portfolio-Akul Bharadwaj](https://www.datascienceportfol.io/akulb2h).
 *   ✉️  You can contact me at [akulb2h@gmail.com](mailto:akulb2h@gmail.com).
