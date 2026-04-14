@@ -1,9 +1,7 @@
 Hi 👋 I'm Akul. Welcome to my GitHub profile!
 =============================================
 
-I am an AI Solutions Engineer with hands-on experience in building and deploying end-to-end AI pipelines that deliver measurable business impact. At Datadivr, I drive the development of ShelfSmart, a vision–based solution that enables Food & Beverage companies to improve retail shelf analytics and planogram compliance.
-
-I have been part of this journey from its early design as a Jr. Data Scientist to now leading its development as an AI Solutions Engineer, bridging technical innovation with real customer needs and ROI goals.
+With experience in building applied AI solutions from development to deployment, I have worked across computer vision, machine learning, and production AI systems to solve real-world business problems. At Datadivr, I led the end-to-end development of ShelfSmart, an AI-powered retail shelf intelligence platform for SKU detection, stock-out detection, facings, and planogram compliance, while also contributing to pre-sales discussions, customer demos, and production deployment on Azure. Previously, during my R&D internship at Yunex Traffic UK, I worked on machine learning and AIoT projects spanning traffic analytics, pose-recognition systems, digital-twin log analysis, and edge-based computer vision, strengthening my ability to combine technical problem-solving with practical business impact.
 
 I hold a Master's in Data Science and Artificial Intelligence with a Year in Industry from the University of Liverpool, and a Bachelor's in Electronics and Communication Engineering, giving me a strong foundation in analytical problem-solving and applied AI.
 
