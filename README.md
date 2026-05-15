@@ -7,8 +7,7 @@ I hold a Master's in Data Science and Artificial Intelligence with a Year in Ind
 
 Passionate about continuous learning and innovation, I aim to shape AI solutions that transform industries by combining technical depth, product thinking, and business impact.
 
-*   💼  Previously worked as AI Solutions Engineer & Jr. Data Scientist at [Datadivr](https://www.datadivr.com/).
-*   🌍  My hometown is Bengaluru, India.
+*   🌍  My hometown is Bengaluru, Karnataka, India.
 *   🖥️  See my portfolio at [Portfolio-Akul Bharadwaj](https://www.datascienceportfol.io/akulb2h).
 *   ✉️  You can contact me at [akulb2h@gmail.com](mailto:akulb2h@gmail.com).
 *   ⭐  My interests include data analysis, machine learning, deep learning and computer vision.
