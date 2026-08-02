@@ -1,11 +1,17 @@
 Hi 👋 I'm Akul. Welcome to my GitHub profile!
 =============================================
 
-With experience in building applied AI solutions from development to deployment, I have worked across computer vision, machine learning, and production AI systems to solve real-world business problems. At Datadivr, I led the end-to-end development of ShelfSmart, an AI-powered retail shelf intelligence platform for SKU detection, stock-out detection, facings, and planogram compliance, while also contributing to pre-sales discussions, customer demos, and production deployment on Azure. Previously, during my R&D internship at Yunex Traffic UK, I worked on machine learning and AIoT projects spanning traffic analytics, pose-recognition systems, digital-twin log analysis, and edge-based computer vision, strengthening my ability to combine technical problem-solving with practical business impact.
-
-I hold a Master's in Data Science and Artificial Intelligence with a Year in Industry from the University of Liverpool, and a Bachelor's in Electronics and Communication Engineering, giving me a strong foundation in analytical problem-solving and applied AI.
-
-Passionate about continuous learning and innovation, I aim to shape AI solutions that transform industries by combining technical depth, product thinking, and business impact.
+I currently work in Cyber Catastrophe Modelling at Gallagher Re, supporting UK Cyber Reinsurance through catastrophe risk analytics, data-driven modelling, and stakeholder collaboration.
+ 
+My background spans data science, applied AI, and production solution engineering. At Datadivr, I led the end-to-end development of ShelfSmart, an AI-powered retail shelf intelligence platform for SKU detection, stock-out identification, facings, and planogram compliance.
+ 
+My work covered computer vision, vision-language model workflows, Python, PyTorch, Docker, Azure deployment, automated reporting, customer discovery, solution demonstrations, and production support. The platform supported more than 100 sales and key-account professionals across 1,000+ retail outlets.
+ 
+Previously, during my year-in-industry placement at Yunex Traffic UK, I worked on machine learning and AIoT projects spanning traffic analytics, digital-twin data analysis, pose-recognition systems, and edge-based computer vision.
+ 
+I hold an MSc in Data Science and Artificial Intelligence with a Year in Industry from the University of Liverpool, along with a BE in Electronics and Communication Engineering.
+ 
+My long-term interest lies at the intersection of cyber risk, catastrophe analytics, AI, and data engineering - using technology to improve modelling, decision-making, and business outcomes.
 
 *   🌍  My hometown is Bengaluru, Karnataka, India.
 *   🖥️  See my portfolio at [Portfolio-Akul Bharadwaj](https://www.datascienceportfol.io/akulb2h).
