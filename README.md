@@ -1,7 +1,7 @@
 Hi 👋 I'm Akul. Welcome to my GitHub profile!
 =============================================
 
-I currently work in Cyber Catastrophe Modelling at Gallagher Re, supporting UK Cyber Reinsurance through catastrophe risk analytics, data-driven modelling, and stakeholder collaboration.
+I currently work in Cyber Catastrophe Modelling at Gallagher Re, contributing to Cyber Reinsurance through catastrophe risk analytics, data-driven modelling, and stakeholder collaboration.
  
 My background spans data science, applied AI, and production solution engineering. At Datadivr, I led the end-to-end development of ShelfSmart, an AI-powered retail shelf intelligence platform for SKU detection, stock-out identification, facings, and planogram compliance.
  
